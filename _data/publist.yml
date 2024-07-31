@@ -1,0 +1,499 @@
+- title: "Reconstructing intelligible speech from the human auditory cortex"
+  image: TBG_ARPES.png
+  description: A New paper! More description will be put here.
+  citation: Hassan, A., Khalighinejad, B., Herrero, J. L., Mehta, A. D., & Mesgarani, N. (2018). Reconstructing intelligible speech from the human auditory cortex. BioRxiv, 350124.
+  link:
+    url: https://www.nature.com/articles/s41598-018-37359-z
+    display:  <i>Scientific Report 9, 874 2019</i>
+  highlight: 1
+  news1: News1 text
+  news2: News2 text
+
+- title: "Medial prefrontal cortex supports perceptual memory"
+  image: TBG_ARPES.png
+  description: A New paper! More description will be put here.
+  citation: Schwiedrzik, C. M., Sudmann, S. S., Thesen, T., Wang, X., Groppe, D. M., Mégevand, P., ... & Melloni, L. (2018). Medial prefrontal cortex supports perceptual memory. Current Biology, 28(18), R1094-R1095.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30253147
+    display:  Current Biology, 28(18) 2018
+  highlight: 1
+  news1: News1 text
+  news2: News2 text
+
+- title: "Joint representation of spatial and spectrotemporal acoustic features in human auditory cortex"
+  image: PbSpub.png
+  description: Description here
+  citation: Patel, P., Long, L. K., Herrero, J. L., Mehta, A. D., & Mesgarani, N. (2018). Joint representation of spatial and phonetic features in the human core auditory cortex. Cell reports, 24(8), 2051-2062.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S221112471831194X
+    display:  Cell reports, 24(8) 2018
+  highlight: 1
+  news2:
+
+- title: "On the importance of precise electrode placement for targeted transcranial electrical stimulation"
+  image: DomePub.png
+  description: Place those electrodes carefully before going mad scientist on someone
+  citation: Opitz, A., Yeagle, E., Thielscher, A., Schroeder, C., Mehta, A. D., & Milham, M. P. (2018). On the importance of precise electrode placement for targeted transcranial electric stimulation. Neuroimage, 181, 560-567.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139038/
+    display:  Neuroimage, 181, 560-567 (2018)
+  highlight: 1
+  news2:
+
+- title: "Induction and quantification of plasticity in human cortical networks"
+  image: Pub_BCl.png
+  description:
+  citation: Keller CJ, Huang D, Honey CJ, Fini M, Du V, Lado FA and Mehta AD. 2018. Induction and quantification of plasticity in human cortical networks. J Neuroscience.38:5384-5398. PMID:29875229.
+  link:
+    url:
+    display:
+  highlight: 1
+
+- title: "Spectrotemporal modulation provides a unifying framework for auditory cortical asymmetries"
+  image: Fano.png
+  description: Stuff happens
+  citation: Flinker, A., Doyle, W. K., Mehta, A. D., Devinsky, O., & Poeppel, D. (2019). Spectrotemporal modulation provides a unifying framework for auditory cortical asymmetries. Nature human behaviour, 3(4), 393-405.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6650286/
+    display:  "PMID: 30971792"
+  highlight: 1
+  news1: See also Marvel Movies with Thanos!
+
+- title: "Speaker-independent auditory attention decoding without access to clean speech sources"
+  image: SmartPub.png
+  description: Studies!!
+  citation: Han, C., O’Sullivan, J., Luo, Y., Herrero, J., Mehta, A. D., & Mesgarani, N. (2019). Speaker-independent auditory attention decoding without access to clean speech sources. Science advances, 5(5), eaav6134.
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+
+- title: "Validation of corpus callosotomy after laser interstitial thermal therapy: a multimodal approach"
+  image: dummy.png
+  description: "This title doesn't match the one found at original HBML website"
+  citation: "Lehner, K. R., Yeagle, E. M., Argyelan, M., Klimaj, Z., Du, V., Megevand, P., ... & Mehta, A. D. (2018). Validation of corpus callosotomy after laser interstitial thermal therapy: a multimodal approach. Journal of Neurosurgery, 131(4), 1095-1105."
+  link:
+    url: https://thejns.org/view/journals/j-neurosurg/131/4/article-p1095.xml
+    display:  "DOI: https://doi.org/10.3171/2018.4.JNS172588"
+  highlight: 1
+  news2:
+
+- title: "Immediate neurophysiological effects of transcranial electrical stimulation"
+  image: dummy.png
+  description: ""
+  citation: "Liu A, Vöröslakos M, Kronberg G, Henin S, Krause MR, Huang Y, Opitz A, Mehta
+A, Pack CC, Krekelberg B, Berényi A, Parra LC, Melloni L, Devinsky O, Buzsáki G. 
+Immediate neurophysiological effects of transcranial electrical stimulation. Nat 
+Commun. 2018 Nov 30;9(1):5092. doi: 10.1038/s41467-018-07233-7. Review. PubMed
+PMID: 30504921; PubMed Central PMCID: PMC6269428."
+  link:
+    url: https://www.nature.com/articles/s41467-018-07233-7
+    display:  "DOI: https://doi.org/10.1038/s41467-018-07233-7"
+  highlight: 0
+  news2:
+
+- title: "Increasing suppression of saccade-related transients along the human visual hierarchy"
+  image: dummy.png
+  description: ""
+  citation: "Golan T, Davidesco I, Meshulam M, Groppe DM, Mégevand P, Yeagle EM, Goldfinger
+MS, Harel M, Melloni L, Schroeder CE, Deouell LY, Mehta AD, Malach R. Increasing 
+suppression of saccade-related transients along the human visual hierarchy.
+Elife. 2017 Aug 29;6. pii: e27819. doi: 10.7554/eLife.27819."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Volitional control and attentional modulation in humans"
+  image: dummy.png
+  description: ""
+  citation: "Herrero JL, Khuvis S, Yeagle EK, Cerf M and Mehta AD. 2017.Breathing above the brainstem: Volitional control and attentional modulation in humans. J. Neurophysiol. 119:145-159. PMID: 28954895."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "The hippocampus and amygdala are integrators of distributed neocortical influence: a cortico-cortical evoked potential study"
+  image: dummy.png
+  description: ""
+  citation: "Mégevand P, Groppe DM, Bickel S, Mercier MR, Goldfinger MS, Keller CJ, Entz L and Mehta AD. 2017. The hippocampus and amygdala are integrators of distributed neocortical influence: a cortico-cortical evoked potential study. Brain Stimulation. 7::648-660. PMID: 28978234."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Neuronal baseline shifts underlying boundary setting during free recall"
+  image: dummy.png
+  description: ""
+  citation: "Norman Y, Yeagle EM, Harel M, Mehta AD and Malach R. 2017. Neuronal baseline shifts underlying boundary setting during free recall. 2017. Nature Communications.8:1301. PMID: 29101322."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Neural decoding of attentional selection in multi-speaker environments without access to separated sources"
+  image: dummy.png
+  description: ""
+  citation: "O’Sullivan J, Chen Z, Sheth SA, McKhann G, Mehta AD and Mesgarani N. 2017.Neural decoding of attentional selection in multi-speaker environments without access to separated sources.J Neural Engineering. 2017:1644-1647. PMID: 28776506."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Intra-Cranial Recordings Reveal Transient Response Dynamics during Information Maintenance in Human Cerebral Cortex"
+  image: dummy.png
+  description: ""
+  citation: "Noy N, Bickel S, Zion-Golumbic E, Harel M, Golan T, Davidesco I, Schevon CA,
+McKhann GM, Goodman RR, Schroeder CE, Mehta AD, Malach R. Intracranial recordings
+reveal transient response dynamics during information maintenance in human
+cerebral cortex. Hum Brain Mapp. 2015 Oct;36(10):3988-4003. doi:
+10.1002/hbm.22892. Epub 2015 Jul 3. PubMed PMID: 26147431."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Intra-Cranial Recordings Reveal Transient Response Dynamics during Information Maintenance in Human Cerebral Cortex"
+  image: dummy.png
+  description: ""
+  citation: "Noy N, Bickel S, Zion-Golumbic E, Harel M, Golan T, Davidesco I, Schevon CA,
+McKhann GM, Goodman RR, Schroeder CE, Mehta AD, Malach R. Intracranial recordings
+reveal transient response dynamics during information maintenance in human
+cerebral cortex. Hum Brain Mapp. 2015 Oct;36(10):3988-4003. doi:
+10.1002/hbm.22892. Epub 2015 Jul 3. PubMed PMID: 26147431."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Low-frequency cortical oscillations entrain to sub-threshold rhythmic auditory stimuli"
+  image: dummy.png
+  description: ""
+  citation: "Oever ST, Schroeder CE, Poeppel D, van Atteveldt N, Mehta AD, Megevand P, Groppe DM and Zion-Golumic E.2017. Low-frequency cortical oscillations entrain to sub-threshold rhythmic auditory stimuli. J Neuroscience. 37:4903-4912. PMID: 28411273."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Laser Interstitial Thermal Therapy: A First Line Treatment for Seizures Due to Hypothalamic Hamartoma?"
+  image: dummy.png
+  description: ""
+  citation: "Du V, Gandhi SK, Rekate H and Mehta AD. 2017. Laser Interstitial Thermal Therapy: A First Line Treatment for Seizures Due to Hypothalamic Hamartoma?. Epilepsia. 58S:77-84. PMID: 28591480."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Tuning face perception with electrical stimulation of the fusiform gyrus"
+  image: dummy.png
+  description: ""
+  citation: "Keller CJ, Davidesco I, Megevand P, Lado FA, Malach R and Mehta AD. 2017. Tuning face perception with electrical stimulation of the fusiform gyrus. Human Brain Mapping.  38:2830-2842. PMID:28345189."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "iELVis: An open source MATLAB toolbox for localizing and visualizing human intracranial electrode data"
+  image: dummy.png
+  description: ""
+  citation: "Groppe DM, Bickel S, Dykstra AR, Wang X, Megevand P, Mercier MR, Lado FA, Mehta AD and Honey CJ. 2017. iELVis: An open source MATLAB toolbox for localizing and visualizing human intracranial electrode data. J. Neurosci. Methods.281:40-48. PMID: 28192130."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Invariant Temporal Dynamics Underlie Perceptual Stability in Human Visual Cortex"
+  image: dummy.png
+  description: ""
+  citation: "Podvalny E, Yeagle EM, Megevand P, Sarid N, Harel M, Chechik G, Mehta AD and Malach R. 2017.Invariant Temporal Dynamics Underlie Perceptual Stability in Human Visual Cortex. Current Biology.27:155-165.PMID: 28041794."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Human Intracranial Recordings Link Suppressed Transients Rather Than Filling-In to Perceptual Continuity Across Blinks"
+  image: dummy.png
+  description: ""
+  citation: "Golan T, Davidesco I, Meshulam M, Groppe DM, Mégevand P, Yeagle EM, Goldfinger
+MS, Harel M, Melloni L, Schroeder CE, Deouell LY, Mehta AD, Malach R. Human
+intracranial recordings link suppressed transients rather than 'filling-in' to
+perceptual continuity across blinks. Elife. 2016 Sep 29;5. pii: e17243. doi:
+10.7554/eLife.17243. PubMed PMID: 27685352; PubMed Central PMCID: PMC5102580."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Complication Avoidance with Laser Interstitial Thermal Therapy: Lessons Learned"
+  image: dummy.png
+  description: ""
+  citation: "Pruitt R, Gamble A, Black K, Schulder M and Mehta AD.  2016.  Complication Avoidance with Laser Interstitial Thermal Therapy: Lessons Learned.  J. Neurosurgery. 3:1-8. PMID: 27257839."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Spatiotemporal structure of intracranial electric fields induced by transcranial electric stimulation in human and nonhuman primates"
+  image: dummy.png
+  description: ""
+  citation: "Opitz A, Falchier A, Yan CG, Yeagle E, Linn G, Megevand P, Thielscher A, Milham M, Mehta AD and Schroeder CE. 2016.Spatiotemporal structure of intracranial electric fields induced by transcranial electric stimulation in human and nonhuman primates. Scientific Reports.6:31236. PMID: 27535462."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "White matter signal characteristics: A Stereotactic electroencephalography (S-EEG) study"
+  image: dummy.png
+  description: ""
+  citation: "Mercier MR, Bickel S, Megevand P, Groppe DM, Schroeder CE, Mehta AD and Lado FA.  2016.  White matter signal characteristics: A Stereotactic electroencephalography (S-EEG) study.  Neuroimage.  147:219-232. PMID: 27554533."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Functional differences among stimulation-identified cortical naming sites"
+  image: dummy.png
+  description: ""
+  citation: "Hamberger MJ, Miozzo M, Schevon CA, Morrison C, Carlson C, Mehta AD, Klein G, McKhann GM, William AC.2016. Functional differences among stimulation-identified cortical naming sites. Epilepsy and Behavior.  60: 124-129. PMID: 27206230."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Vagus Nerve Stimulation Inhibits TNF and Attenuates Rheumatoid Arthritis Severity"
+  image: dummy.png
+  description: ""
+  citation: "KoopmanF, ChavanS, MiljkoS, GrazioS, SokolovicS, SchuurmanR, MehtaAD, LevineY, MaltysM, ZitnikR, TraceyK and TakPP. 2016. Vagus Nerve Stimulation Inhibits TNF and Attenuates Rheumatoid Arthritis Severity.  Proceedings of the National Academy of Sciences.  113:8284-8289. PMID: 27382171."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Combining task-evoked and spontaneous activity improves pre-operative brain mapping with fMRI"
+  image: dummy.png
+  description: ""
+  citation: "Fox MD, Ojan T, Madsen JR, Wang D, Ge M, Zuo HC, Groppe DM, Mehta AD, Hong B and Liu H. 2016.  Combining task-evoked and spontaneous activity improves pre-operative brain mapping with fMRI. Neuroimage.  124:714-723. PMID 26408860."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Laminar profile and physiology of the alpha rhythm in primary visual, auditory and somatosensory regions of neocortex"
+  image: dummy.png
+  description: ""
+  citation: "HaegensS, Barczak A, Musacchia G, Lipton ML, Mehta AD, Lakatos P and Schroeder CE.  2015. Laminar profile and physiology of the alpha rhythm in primary visual, auditory and somatosensory regions of neocortex.  J. Neuroscience.  35:14341-14352.  PMID 26490871."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "A unifying principle underlying the extracellular field potential spectral responses in the human cortex"
+  image: dummy.png
+  description: ""
+  citation: "Podvalny E, Noy N, Harel M, Bickel S, Chechik G, Schroeder CE, Mehta AD, Tsodyks M and Malach R.  2015.  A unifying principle underlying the extracellular field potential spectral responses in the human cortex.  J Neurophysiology.114:505-519. PMID: 25855698"
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Ignition’s glow: Ultra-fast spread of global cortical activity accompanying local “ignitions” in visual cortex during conscious visual perception"
+  image: dummy.png
+  description: ""
+  citation: "Noy N, Zion-Golumbic E, Harel M, Golan T, Davidesco I, Schevon CA, Bickel S, McKhann GM, Goodman RR, Schroeder CE, Mehta AD and Malach R.  2015. Ignition’s glow: Ultra-fast spread of global cortical activity accompanying local “ignitions” in visual cortex during conscious visual perception.  Concsiousness and Cognition.  35:206-224. PMID: 25824626"
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Evoked effective connectivity of the human neocortex"
+  image: dummy.png
+  description: ""
+  citation: "Entz L, Tóth E, Keller CJ, Bickel S, Groppe DM, Fabó D, Kozák LR, Erőss L, Ulbert I, Mehta AD. Evoked effective connectivity of the human neocortex. Human Brain Mapping 35 (12), 5736-5753."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Mapping human brain networks with cortico-cortical evoked potentials"
+  image: dummy.png
+  description: ""
+  citation: "Keller CJ, Honey CJ, Mégevand P, Entz L, Ulbert I, Mehta AD. Mapping human brain networks with cortico-cortical evoked potentials. Philosophical Transactions of the Royal Society B: Biological Sciences 369 (1653), 20130528."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Physiology of functional and effective networks in epilepsy"
+  image: dummy.png
+  description: ""
+  citation: "Yaffe RB, Borger P, Mégevand P, Groppe DM, Kramer MA, Chu CJ, Santaniello S, Meisel C, Mehta AD, Sarma SV. Physiology of functional and effective networks in epilepsy. Clinical Neurophysiology."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Corticocortical evoked potentials reveal projectors and integrators in human brain networks"
+  image: dummy.png
+  description: ""
+  citation: "Keller CJ, Honey CJ, Entz L, Bickel S, Groppe DM, Toth E, Ulbert I, Lado FA, Mehta AD. Corticocortical evoked potentials reveal projectors and integrators in human brain networks. The Journal of Neuroscience 34 (27), 9152-9163."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Seeing Scenes: Topographic Visual Hallucinations Evoked by Direct Electrical Stimulation of the Parahippocampal Place Area"
+  image: dummy.png
+  description: ""
+  citation: "Mégevand P, Groppe DM, Goldfinger MS, Hwang ST, Kingsley PB, Davidesco I, Mehta AD. Seeing Scenes: Topographic Visual Hallucinations Evoked by Direct Electrical Stimulation of the Parahippocampal Place Area. The Journal of Neuroscience 34 (16), 5399-5405."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Exemplar selectivity reflects perceptual similarities in the human fusiform cortex"
+  image: dummy.png
+  description: ""
+  citation: "Davidesco I, Zion-Golumbic E, Bickel S, Harel M, Groppe D, Keller CJ, Schevon CA, McKhann GM, Goodman RR, Goelman G, Schroeder CE, Mehta AD, Malach R. Exemplar selectivity reflects perceptual similarities in the human fusiform cortex. Cerebral Cortex, 2(5) DOI:10.1093/cercor/bht038."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Clinical applications of the functional connectome"
+  image: dummy.png
+  description: ""
+  citation: "Castellanos FX, Di Martino A, Craddock RC, Mehta AD and Milham MP. Clinical applications of the functional connectome. Neuroimage 80, 527-540."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Dominant frequencies of resting human brain activity as measured by the electrocorticogram"
+  image: dummy.png
+  description: ""
+  citation: "DM Groppe, S Bickel, CJ Keller, SK Jain, ST Hwang, C Harden, AD Mehta. Dominant frequencies of resting human brain activity as measured by the electrocorticogram. Neuroimage 79, 223-233."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Neurophysiological investigation of spontaneous correlated and anticorrelated fluctuations of the BOLD signal"
+  image: dummy.png
+  description: ""
+  citation: "Keller CJ, Bickel S, Honey CJ, Groppe DM, Entz L, Craddock RC, Lado FA, Kelly C, Milham MP and Mehta AD. 2013. Neurophysiological investigation of spontaneous correlated and anticorrelated fluctuations of the BOLD signal. Journal of Neuroscience. 33:6333-6342."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Mechanisms Underlying Selective Neuronal Tracking of Attended Speech at a 'Cocktail Party'"
+  image: dummy.png
+  description: ""
+  citation: "Zion-Golumbic EM, Ding N, Bickel S, Lakatos, P, Schevon CA, McKhann GM, Goodman RR, Emerson R, Mehta AD, Simon JZ, Poeppel D, Schroeder CE. 2013. Mechanisms Underlying Selective Neuronal Tracking of Attended Speech at a “Cocktail Party.” Neuron. 77: 980-991."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Intrinsic Functional Architecture Predicts Electrically Evoked Responses in the Human Brain"
+  image: dummy.png
+  description: ""
+  citation: "Keller CJ, Bickel S, Entz L, Ulbert I, Kelley AM, Milham MP and Mehta AD. 2011. Intrinsic Functional Architecture Predicts Electrically Evoked Responses in the Human Brain. Proceedings of the National Academy of Sciences (USA). 25:10308-10313."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Tuning of the human neocortex to the temporal dynamics of attended events"
+  image: dummy.png
+  description: ""
+  citation: "Besle J., Schevon CA, Mehta AD, Lakatos P, Goodman RR, McKhann GM, Emerson RG and Schroeder CE. 2011. Tuning of the human neocortex to the temporal dynamics of attended events. Journal of Neuroscience. 31:3176-3185."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Heterogeneous Neuronal Firing Patterns During Interictal Epileptiform Discharges in the Human Cortex"
+  image: dummy.png
+  description: ""
+  citation: "Keller CJ, Truccolo W, Gale JT, Eskandar E, Thesen T, Mehta AD, Devinsky O, Kuzniecky R, Doyle WK, Madsen J, Schomer D, Brown EN, Ulbert I, Halgren E, Hochberg L and Cash SS. 2010. Heterogeneous Neuronal Firing Patterns During Interictal Epileptiform Discharges in the Human Cortex. Brain. 133:1668-1681."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Clinical utility of functional magnetic resonance imaging for brain mapping in epilepsy surgery"
+  image: dummy.png
+  description: ""
+  citation: "Mehta AD and Klein G. 2010. Clinical utility of functional magnetic resonance imaging for brain mapping in epilepsy surgery. Epilepsy Research. 89: 126-132. 2009"
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Brain Circuits Underlying Seizure Propagation in a Patient with Musicogenic Epilepsy"
+  image: dummy.png
+  description: ""
+  citation: "Mehta AD, Ettinger AB, Perrine K, Dhawan V, Patil A, Jain SK, Klein G, Schneider SJ, Eidelberg D. 2009. Brain Circuits Underlying Seizure Propagation in a Patient with Musicogenic Epilepsy. Epilepsy and Behavior. 14:421-424."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Entrainment of Neuronal Oscillations as a Mechanism of Attentional Selection"
+  image: dummy.png
+  description: ""
+  citation: "Lakatos P, Karmos G, Mehta AD, Ulbert I and Schroeder CE. 2008. Entrainment of Neuronal Oscillations as a Mechanism of Attentional Selection. Science. 320:110-113."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Long-range oscillatory coherence across a frontal-occipital-hippocampal brain network during visual object processing"
+  image: dummy.png
+  description: ""
+  citation: "Sehatpour P, Molholm S, Schwartz TH, Mehta AD, Mahoney J, Javitt DC, Stanton PK, and Foxe JJ. 2008. Long-range oscillatory coherence across a frontal-occipital-hippocampal brain network during visual object processing. Proceedings of the National Academy of Sciences (USA). 105:4399-4004."
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:

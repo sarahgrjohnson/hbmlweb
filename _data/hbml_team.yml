@@ -1,0 +1,90 @@
+- name: Ashesh Mehta
+  photo: ash_mehta 2.jpg
+  info: Founder and Co-Director of the Lab. Director of Neurological Epilepsy Surgery. Professor of Neurosurgery Zucker School of Medicine at Hofstra and the Feinstein Institutes, Northwell Health.
+  email: 
+  x:
+  linkedin: https://www.linkedin.com/in/ashesh-mehta-3110b234/
+  website: https://www.northwell.edu/find-care/find-a-doctor/dr-ashesh-dinesh-mehta-md-11317165
+
+- name: Stephan Bickel
+  photo: stephan_bickel.jpeg
+  info: Co-Director of the Lab. Attending Physician, Neurology/Epilepsy. Assistant Professor of Neurology and Neurosurgery, Zucker School of Medicine at Hofstra and The Feinstein Institutes, Northwell.
+  email: sbickel@northwell.edu
+  x: https://x.com/Steph_Bickel
+  bluesky: stephanbickel.bsky.social
+  linkedin: www.linkedin.com/in/stephan-bickel-48599a16
+  website: https://www.northwell.edu/find-care/find-a-doctor/neurology/dr-stephan-bickel-md-phd-11378669
+  github: https://github.com/iEEG
+  
+- name: Jose Herrero
+  photo: jose_herrero.png
+  info: Assistant Professor at The Feinstein Institutes, Northwell.
+  background: 
+  email: jherrero@northwell.edu
+  x:
+  linkedin: https://www.linkedin.com/in/jose-herrero-nyc-neuro/
+  website: https://feinstein.northwell.edu/institutes-researchers/our-researchers/jose-l-herrero-rubio-phd
+
+- name: Sabina Gherman
+  photo: SG_sq.jpg
+  info: PostDoc with Stephan
+  background: PhD Cognitive Neuroscience, University of Glasgow (Philiastides lab)
+  email: agherman@northwell.edu
+  x:
+  linkedin:
+  website: 
+
+- name: Max Nentwich
+  photo: bio-photo.jpg
+  info: PostDoc with Stephan
+  background: Neuroscience PhD, City College of New York (Parra Lab)
+  email: mnentwich@northwell.edu
+  x:
+  linkedin:
+  website: 
+
+- name: Christine Chesebrough
+  photo: bio-photo.jpg
+  info: PostDoc with Stephan
+  background: PhD Drexel University (John Kounios, Lila Chrysikou Labs), MA Columbia U, BA Johns Hopkins
+  email: cchesebrough@northwell.edu
+  x:
+  linkedin: https://www.linkedin.com/in/christine-chesebrough-phd-74981435/
+  website: 
+
+- name: Elizabeth Espinal
+  photo: elizabeth_espinal.jpg
+  info: Neuropsychology grad student at Drexel (mentor Lila Chrysikou at Drexel, co-mentor Stephan)
+  background: BA, Queens College, NY
+  email:  
+  x:
+  linkedin:
+  website: 
+
+- name: Akash Mishra
+  photo: akash_mishrah.jpg
+  info: MD PhD Student (Mentors-Stephan, Ash)
+  background: BS, Hostra University, NY
+  email:  AMishra4@northwell.edu
+  x: https://x.com/Akash_Mishra7
+  linkedin: https://www.linkedin.com/in/akash-mishra-29a41015b/
+  website: 
+
+- name: Jalen Winfield
+  photo: bio-photo.jpg
+  info: Research Assistant
+  background: BS Biomed. Engineering, Drexel University
+  email: jwinfield@northwell.edu
+  x:
+  linkedin:
+  website: 
+
+- name: Noah Markowitz
+  photo: Noah.jpg
+  info: Research Assistant HBMLab, Grad Student at BU College of Engineering
+  background: 
+  email: nmarkowitz@northwell.edu
+  x:
+  linkedin: https://www.linkedin.com/in/noah-ben-markowitz/
+  website: 
+  github: https://github.com/nmarkowitz

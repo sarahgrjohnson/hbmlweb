@@ -1,0 +1,94 @@
+- title: "Reconstructing intelligible speech from the human auditory cortex"
+  image: TBG_ARPES.png
+  description: A New paper! More description will be put here.
+  authors: Akbari H, Khalighinejad B, Herrero JL, Mehta AD and Mesgarani N
+  link:
+    url: https://www.nature.com/articles/s41598-018-37359-z
+    display:  <i>Scientific Report 9, 874 2019</i>
+  highlight: 1
+  news1: News1 text
+  news2: News2 text
+
+- title: "Medial prefrontal cortex supports perceptual memory"
+  image: STS_news.png
+  description: Description here!
+  authors: Schwiedrzik CM, Sudmann SS, Thesen T, Wang X, Groppe DM, Megevand P, Doyle W, Mehta AD, Devinsky O and Melloni L
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30253147
+    display:  Current Biology, 28(18) 2018
+  highlight: 1
+  news2:
+
+
+- title: "Joint representation of spatial and spectrotemporal acoustic features in human auditory cortex"
+  image: PbSpub.png
+  description: Description here
+  authors: Patel P, Long LK, Herrero JL, Mehta AD and Mesgarani N
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S221112471831194X
+    display:  Cell reports, 24(8) 2018
+  highlight: 1
+  news2:
+
+- title: "On the importance of precise electrode placement for targeted transcranial electrical stimulation"
+  image: DomePub.png
+  description: Place those electrodes carefully before going mad scientist on someone
+  authors: Opitz A, Yeagle E, Thielscher A, Schroeder CE, Mehta AD and Milham M
+  authors2: 
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139038/
+    display:  Neuroimage, 181, 560-567 (2018)
+  highlight: 1
+  news2:
+
+- title: "Induction and quantification of plasticity in human cortical networks"
+  image: Pub_BCl.png
+  description:
+  authors2: Keller CJ, Huang D, Honey CJ, Fini M, Du V, Lado FA and Mehta AD
+  authors: Keller CJ, Huang D, Honey CJ, Fini M, Du V, Lado FA and Mehta AD. 2018. Induction and quantification of plasticity in human cortical networks. J Neuroscience.38:5384-5398. PMID:29875229.
+  link:
+    url: https://www.nature.com/articles/s41567-018-0300-z
+    display:  Nature Physics 14, 1183 (2018)
+  highlight: 1
+  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
+  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+
+- title: "Spectrotemporal modulation provides a unifying framework for auditory cortical asymmetries"
+  image: Fano.png
+  description: Stuff happens
+  authors: Flinker, A., Doyle, W. K., Mehta, A. D., Devinsky, O., & Poeppel, D. (2019). Spectrotemporal modulation provides a unifying framework for auditory cortical asymmetries. Nature human behaviour, 3(4), 393-405.
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6650286/
+    display:  "PMID: 30971792"
+  highlight: 1
+  news1: See also Marvel Movies with Thanos!
+
+- title: "Speaker-independent auditory attention decoding without access to clean speech sources"
+  image: SmartPub.png
+  description: Studies!!
+  authors: Han, C., O’Sullivan, J., Luo, Y., Herrero, J., Mehta, A. D., & Mesgarani, N. (2019). Speaker-independent auditory attention decoding without access to clean speech sources. Science advances, 5(5), eaav6134.
+  link:
+    url: https://advances.sciencemag.org/content/5/5/eaav6134?origin=app
+    display: "DOI: 10.1126/sciadv.aav6134"
+  highlight: 1
+  news2:
+
+- title: "Validation of corpus callosotomy after laser interstitial thermal therapy: a multimodal approach"
+  image: dummy.png
+  description: "This title doesn't match the one found at original HBML website"
+  authors: "Lehner, K. R., Yeagle, E. M., Argyelan, M., Klimaj, Z., Du, V., Megevand, P., ... & Mehta, A. D. (2018). Validation of corpus callosotomy after laser interstitial thermal therapy: a multimodal approach. Journal of Neurosurgery, 131(4), 1095-1105."
+  link:
+    url: https://thejns.org/view/journals/j-neurosurg/131/4/article-p1095.xml
+    display:  "DOI: https://doi.org/10.3171/2018.4.JNS172588"
+  highlight: 1
+  news2:
+
+- title: "Immediate neurophysiological effects of transcranial electrical stimulation"
+  image: dummy.png
+  description: ""
+  authors: "Liu, A., Vöröslakos, M., Kronberg, G., Henin, S., Krause, M. R., Huang, Y., ... & Berényi, A. (2018). Immediate neurophysiological effects of transcranial electrical stimulation. Nature communications, 9(1), 1-12."
+  link:
+    url: https://www.nature.com/articles/s41467-018-07233-7
+    display:  "DOI: https://doi.org/10.1038/s41467-018-07233-7"
+  highlight: 0
+  news2:

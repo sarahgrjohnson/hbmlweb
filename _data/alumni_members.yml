@@ -1,0 +1,69 @@
+- name: Gelana Tostaeva
+  role_then: Research Assistant
+  role_after: Neuroscience Grad Student at Mt. Sinai
+  website:  
+
+- name: Elisabeth Freund
+  role_then: Research Assistant
+  role_after: Neuroscience Grad Student at Bonn University
+  website:  
+
+- name: David Mikhael
+  role_then: Research Assistant
+  role_after: 
+  website: 
+
+- name: Serdar Akkol
+  role_then: Elmezzi Grad Student (Mentor Stephan)
+  role_after: Neurology Resident at University of Alabama
+  website: "https://sakkol.github.io/"
+
+- name: Simon Khuvis
+  role_then: MD PhD Student (Mentor Ash)
+  role_after: Psychiatry Resident at NYU
+  website:  
+
+- name: Noah Markowitz
+  role_then: Research assistant
+  role_after: MS Student at Boston University
+  website:  
+
+- name: Elizabeth Espinal
+  role_then: Research Coordinator
+  role_after: Neuro-psychology Grad Student at Drexel
+  website:  
+
+- name: Erin Yeagle
+  role_then: Research Assistant
+  role_after: Med Student at Yale
+  website: 
+
+- name: Matthew Goldfinger
+  role_then: Research Assistant
+  role_after: Med Student at NY Institute of Technology
+  website: 
+
+- name: Pierre Mégevand
+  role_then: Postdoc (Mentor Ash)
+  role_after: Neurology resident University of Geneva
+  website: https://neurocenter-unige.ch/research-groups/pierre-megevand/
+
+- name: David Groppe
+  role_then: Postdoc (Mentor Ash)
+  role_after: Software Engineer at Persyst
+  website: 
+
+- name: Stephan Bickel
+  role_then: Postdoc (Mentor Ash)
+  role_after: Neurology resident Albert Einstein College of Medicine - Montefiore
+  website: 
+
+- name: Laszlo Entz
+  role_then: Postdoc / visiting scientist (Mentor Ash)
+  role_after: Neurosurgery resident Budapest
+  website: 
+
+- name: Gad Klein
+  role_then: Postdoc (Mentor Ash)
+  role_after: Clinical Neuropsychologist
+  website: 
